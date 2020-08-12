@@ -7,14 +7,14 @@
 
 * What is the difference between a module and a package?
   * A module is a single file or block of code while a package is a collection of modules in directories that give a package hierarchy 
-    ![article](https://stackoverflow.com/questions/7948494/whats-the-difference-between-a-python-module-and-a-python-package#:~:text=A%20module%20is%20a%20single,e.g.&text=A%20package%20is%20a%20collection,that%20give%20a%20package%20hierarchy.&text=Any%20Python%20file%20is%20a,file's%20base%20name%20without%20the%20.)
+    [article](https://stackoverflow.com/questions/7948494/whats-the-difference-between-a-python-module-and-a-python-package#:~:text=A%20module%20is%20a%20single,e.g.&text=A%20package%20is%20a%20collection,that%20give%20a%20package%20hierarchy.&text=Any%20Python%20file%20is%20a,file's%20base%20name%20without%20the%20.)
 
 * What does the Node Package Manager do?
   * NPM makes it easy for developers to share and resuse code to solve problems. Other developers can reuse the code in their own applications. It is easy to download updates to the code when they are made. The bits of resuable code are called packages. The biggest benefit is to utilize small solutions from outside your organization, written by specialists or those who have focuses specifically on solving that one little problem. Users can use the npm client to publish code and have it added to the NPM registry. 
-    * ![video](https://docs.npmjs.com/about-npm/index.html)
+    * [video](https://docs.npmjs.com/about-npm/index.html)
 
 * Provide code snippets showing 3 different ways to export a function from a node module 
-  * ![resource](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+  * [resource](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 
 1. Require export
   * `const fs = require('fs');
