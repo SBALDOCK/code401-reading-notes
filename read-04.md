@@ -1,4 +1,4 @@
-# Readings: Advanced Mongo/Mongoose
+# Advanced Mongo/Mongoose
 
 #### Why would a developer choose to make data models?
   * Data models accelerate development, reduce maintenance, increase application quality, and lower execution risks. It is basically the blueprint for a building, outlining all of the details that will result in the proper operation of the application. 
