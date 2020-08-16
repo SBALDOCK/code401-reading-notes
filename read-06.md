@@ -66,6 +66,8 @@
 ### Vocab
 
 * URL - Uniform Resource Locator
+  * Consist of protocol, host, port, resource path, and query
+  * Example -  HTTP      www.  1234  path/to/resource   a=b&x=y
 * URI - Uniform Resource Identifier
 * Postman - Google chrome extension for submitting API requests
 
