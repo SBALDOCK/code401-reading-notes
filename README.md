@@ -25,6 +25,8 @@ Reading Notes - 401
 
 ![read-09](read-09.md)
 
+![stacks-and-queues](stacks-and-queues.md)
+
 ![read-11](read-11.md)
 
 ![read-12](read-12.md)
